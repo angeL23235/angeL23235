@@ -15,7 +15,7 @@
 
 Soy desarrollador **full stack** con pasión por el **front-end**, especializado en crear experiencias web modernas e intuitivas. Actualmente explorando el mundo de la **IA** y manteniéndome al día con las últimas tendencias tecnológicas a través de capacitación continua.
 
-> *"La idea es la primera condición de todo progreso"* - ☄️
+> *"La idea es la primera condición de todo progreso"* - Nikola Tesla 💭
 
 ---
 
@@ -41,13 +41,16 @@ Soy desarrollador **full stack** con pasión por el **front-end**, especializado
 
 ---
 
-## 📈 Estadísticas
+## 📊 Mis Habilidades
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeL23235&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeL23235&theme=radical&hide_border=true&layout=compact)
+| Categoría | Tecnologías |
+|-----------|-----------|
+| 🎨 **Frontend** | React, JavaScript, HTML5, CSS3 |
+| ⚙️ **Backend** | Node.js, Python, Express |
+| 🤖 **IA & ML** | TensorFlow, Machine Learning, Deep Learning |
+| 🛠️ **Tools** | Git, GitHub, VS Code |
 
 </div>
 
