@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hola, soy **Angel**
+# Soy **Angel**
 
-### Full Stack Developer → Front-End Enthusiast | 🤖 AI Enthusiast
+### Full Stack Developer → Front-End Enthusiast | AI Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/angeL23235?style=social)](https://github.com/angeL23235)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat)](https://github.com/angeL23235/Portfolio)
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## ☄️ Sobre mí
 
 Soy desarrollador **full stack** con pasión por el **front-end**, especializado en crear experiencias web modernas e intuitivas. Actualmente explorando el mundo de la **IA** y manteniéndome al día con las últimas tendencias tecnológicas a través de capacitación continua.
 
@@ -53,7 +53,7 @@ Soy desarrollador **full stack** con pasión por el **front-end**, especializado
 
 ---
 
-## 🎯 Enfoque Actual
+## 🧠 Enfoque Actual
 
 - 🔬 **Explorando IA y Machine Learning**
 - 📚 **Capacitación continua** en tecnologías emergentes
