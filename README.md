@@ -15,7 +15,7 @@
 
 Soy desarrollador **full stack** con pasión por el **front-end**, especializado en crear experiencias web modernas e intuitivas. Actualmente explorando el mundo de la **IA** y manteniéndome al día con las últimas tendencias tecnológicas a través de capacitación continua.
 
-> *"La mente es más fuerte que cualquier máquina. Piensa y crearás el futuro"* - Nikola Tesla ⚡
+> *"La idea es la primera condición de todo progreso"* - Nikola Tesla 💭
 
 ---
 
