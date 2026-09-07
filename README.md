@@ -41,16 +41,13 @@ Soy desarrollador **full stack** con pasión por el **front-end**, especializado
 
 ---
 
-## 📊 Mis Habilidades
+## 📈 Estadísticas
 
 <div align="center">
 
-| Categoría | Tecnologías |
-|-----------|-----------|
-| 🎨 **Frontend** | React, JavaScript, HTML5, CSS3 |
-| ⚙️ **Backend** | Node.js, Python, Express |
-| 🤖 **IA & ML** | TensorFlow, Machine Learning, Deep Learning |
-| 🛠️ **Tools** | Git, GitHub, VS Code |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeL23235&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeL23235&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
