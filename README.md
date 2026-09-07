@@ -15,7 +15,7 @@
 
 Soy desarrollador **full stack** con pasión por el **front-end**, especializado en crear experiencias web modernas e intuitivas. Actualmente explorando el mundo de la **IA** y manteniéndome al día con las últimas tendencias tecnológicas a través de capacitación continua.
 
-> *"El código es poesía, la IA es el futuro"* ✨
+> *"La mente es más fuerte que cualquier máquina. Piensa y crearás el futuro"* - Nikola Tesla ⚡
 
 ---
 
@@ -74,8 +74,6 @@ Soy desarrollador **full stack** con pasión por el **front-end**, especializado
 ---
 
 <div align="center">
-
-### 💬 *"Siempre aprendiendo, siempre creciendo"* 🌱
 
 ![Profile Views](https://komarev.com/ghpvc/?username=angeL23235&color=blueviolet&style=flat)
 
