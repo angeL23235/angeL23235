@@ -5,7 +5,7 @@
 ### Full Stack Developer → Front-End Enthusiast | AI Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/angeL23235?style=social)](https://github.com/angeL23235)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat)](https://github.com/angeL23235/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat)](https://portafolioangeldev.netlify.app/)
 
 </div>
 
