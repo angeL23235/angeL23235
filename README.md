@@ -5,7 +5,7 @@
 ### Full Stack Developer → Front-End Enthusiast | AI Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/angeL23235?style=social)](https://github.com/angeL23235)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat)](https://portafolioangeldev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat)](https://angelportfolio.online/)
 
 </div>
 
@@ -66,7 +66,7 @@ Soy desarrollador **full stack** con pasión por el **front-end**, especializado
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angeL23235/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://angelportfolio.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angeL23235)
 
 </div>
